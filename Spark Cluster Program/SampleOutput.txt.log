@@ -1,0 +1,228 @@
+Running for user rajashi:
+kdd.data expected in HDFS path : hdfs://co246a-a.ecs.vuw.ac.nz:9000/user/rajashi/input/kdd.data
+Running Decision Tree
+Running Decision Tree Seed - 1
+Running Decision Tree Seed - 2
+Running Decision Tree Seed - 3
+Running Decision Tree Seed - 4
+Running Decision Tree Seed - 5
+Running Decision Tree Seed - 6
+Running Decision Tree Seed - 7
+Running Decision Tree Seed - 8
+Running Decision Tree Seed - 9
+Running Decision Tree Seed - 10
+Running Logistic Regression
+Running Logistic Regression Seed - 1
+Running Logistic Regression Seed - 2
+Running Logistic Regression Seed - 3
+Running Logistic Regression Seed - 4
+Running Logistic Regression Seed - 5
+Running Logistic Regression Seed - 6
+Running Logistic Regression Seed - 7
+Running Logistic Regression Seed - 8
+Running Logistic Regression Seed - 9
+Running Logistic Regression Seed - 10
+All Process Complete
+Use below command to see output files:
+hdfs dfs -cat hdfs://co246a-a.ecs.vuw.ac.nz:9000/user/rajashi/output/DecisionTreeOutput.txt
+hdfs dfs -cat hdfs://co246a-a.ecs.vuw.ac.nz:9000/user/rajashi/output/LogisticRegressionOutput.txt
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 1
+Training Accuracy : 94.6861%
+Training Error : 0.0531
+Test Accuracy : 94.6983%
+Test Error : 0.0530
+Running Time : 52s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 2
+Training Accuracy : 95.2186%
+Training Error : 0.0478
+Test Accuracy : 94.7170%
+Test Error : 0.0528
+Running Time : 49s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 3
+Training Accuracy : 94.4074%
+Training Error : 0.0559
+Test Accuracy : 94.1459%
+Test Error : 0.0585
+Running Time : 55s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 4
+Training Accuracy : 95.1587%
+Training Error : 0.0484
+Test Accuracy : 94.9334%
+Test Error : 0.0507
+Running Time : 56s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 5
+Training Accuracy : 95.6898%
+Training Error : 0.0431
+Test Accuracy : 95.3251%
+Test Error : 0.0467
+Running Time : 55s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 6
+Training Accuracy : 95.4532%
+Training Error : 0.0455
+Test Accuracy : 95.1077%
+Test Error : 0.0489
+Running Time : 52s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 7
+Training Accuracy : 94.6968%
+Training Error : 0.0530
+Test Accuracy : 94.4158%
+Test Error : 0.0558
+Running Time : 66s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 8
+Training Accuracy : 95.1405%
+Training Error : 0.0486
+Test Accuracy : 95.1010%
+Test Error : 0.0490
+Running Time : 49s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 9
+Training Accuracy : 95.0770%
+Training Error : 0.0492
+Test Accuracy : 95.0741%
+Test Error : 0.0493
+Running Time : 53s
+------------------------------
+------------------------------
+Decision Tree Classifier
+------------------------------
+Seed  : 10
+Training Accuracy : 94.5010%
+Training Error : 0.0550
+Test Accuracy : 93.9693%
+Test Error : 0.0603
+Running Time : 53s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 1
+Training Accuracy : 82.7417%
+Training Error : 0.1726
+Test Accuracy : 83.0779%
+Test Error : 0.1692
+Running Time : 54s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 2
+Training Accuracy : 83.1301%
+Training Error : 0.1687
+Test Accuracy : 83.1112%
+Test Error : 0.1689
+Running Time : 58s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 3
+Training Accuracy : 82.6271%
+Training Error : 0.1737
+Test Accuracy : 82.7723%
+Test Error : 0.1723
+Running Time : 66s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 4
+Training Accuracy : 82.4799%
+Training Error : 0.1752
+Test Accuracy : 82.4378%
+Test Error : 0.1756
+Running Time : 63s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 5
+Training Accuracy : 82.3086%
+Training Error : 0.1769
+Test Accuracy : 82.5147%
+Test Error : 0.1749
+Running Time : 67s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 6
+Training Accuracy : 82.5700%
+Training Error : 0.1743
+Test Accuracy : 82.1381%
+Test Error : 0.1786
+Running Time : 65s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 7
+Training Accuracy : 82.6474%
+Training Error : 0.1735
+Test Accuracy : 82.3980%
+Test Error : 0.1760
+Running Time : 62s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 8
+Training Accuracy : 82.6000%
+Training Error : 0.1740
+Test Accuracy : 82.5494%
+Test Error : 0.1745
+Running Time : 52s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 9
+Training Accuracy : 82.6104%
+Training Error : 0.1739
+Test Accuracy : 82.4762%
+Test Error : 0.1752
+Running Time : 56s
+------------------------------
+------------------------------
+Logistic Regression
+------------------------------
+Seed  : 10
+Training Accuracy : 83.1517%
+Training Error : 0.1685
+Test Accuracy : 82.6066%
+Test Error : 0.1739
+Running Time : 54s
+------------------------------

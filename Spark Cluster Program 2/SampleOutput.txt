@@ -1,0 +1,69 @@
+ --------------------------------------------------------
+| Commercial Detection Classifier : With Original Data |
+--------------------------------------------------------
+---------------------------------------
+Decision Tree Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 93.1560%
+Training Error : 0.0684
+Test Accuracy : 91.8589%
+Test Error : 0.0814
+Running Time : 15s
+---------------------------------------
+---------------------------------------
+Random Forest Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 93.3085%
+Training Error : 0.0669
+Test Accuracy : 93.0219%
+Test Error : 0.0698
+Running Time : 8s
+---------------------------------------
+------------------------------------------------------
+| Commercial Detection Classifier : With Scaled Data |
+------------------------------------------------------
+---------------------------------------
+Decision Tree Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 93.1560%
+Training Error : 0.0684
+Test Accuracy : 91.8589%
+Test Error : 0.0814
+Running Time : 12s
+---------------------------------------
+---------------------------------------
+Random Forest Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 93.3085%
+Training Error : 0.0669
+Test Accuracy : 93.0219%
+Test Error : 0.0698
+Running Time : 14s
+---------------------------------------
+---------------------------------------------------------------
+| Commercial Detection Classifier : With PCA transformed Data |
+---------------------------------------------------------------
+---------------------------------------
+Decision Tree Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 84.1267%
+Training Error : 0.1587
+Test Accuracy : 84.0038%
+Test Error : 0.1600
+Running Time : 5s
+---------------------------------------
+---------------------------------------
+Random Forest Classifier :
+---------------------------------------
+Seed  : 5
+Training Accuracy : 84.8213%
+Training Error : 0.1518
+Test Accuracy : 85.3194%
+Test Error : 0.1468
+Running Time : 7s
+---------------------------------------

@@ -1,0 +1,4 @@
+hdfs dfs -mkdir /user/$USER
+hdfs dfs -mkdir /user/$USER/input
+hdfs dfs -put ~/Spark/kdd.data /user/$USER/input/kdd.data
+hdfs dfs -ls hdfs://co246a-a.ecs.vuw.ac.nz:9000/user/$USER/input/kdd.data
