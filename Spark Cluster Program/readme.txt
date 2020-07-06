@@ -2,7 +2,7 @@
 | Compiling the Java files: |
 -----------------------------
 
-1) Download Hadoop and spark supported jars into lib folder from https://ecs.wgtn.ac.nz/foswiki/pub/Courses/COMP424_2020T1/Assignments/spark_jars.zip
+1) Download Hadoop and spark supported jars into lib folder from https://github.com/ashishraj09/Big-data-Programs/blob/master/hadoop_2.8.0_jars_files.zip?raw=true
 2) Copy this lib folder into the same folder as the java files
 3) Run the below command to compile the files 
 
